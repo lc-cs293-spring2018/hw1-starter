@@ -1,10 +1,10 @@
 # Homework 1 (Recipe)
 
-*Spec:* [Specification](../starterFiles/specification.pdf)
+_Spec:_ [Specification](../starterFiles/hw1_recipe.pdf)
 
-*Resource File:* 
+_Resource File:_
 
-*Expected Output:* 
+_Expected Output:_
 
 
 NOTE: The static expected output images that are linked to above (not the comparison tool) are taken on a computer whose screen resolution is 1024x768 pixels. So if your screen is larger, to you the screenshots may not reach all the way over to the right edge of your screen. You don't need to replicate that on your page. Your page's elements should extend all the way to the page's right edge. If you resize your window to 1024x768 resolution, your window should look similar to our screenshot.
