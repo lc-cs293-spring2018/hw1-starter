@@ -1,8 +1,8 @@
 # Homework 1 (Recipe)
 
-_Spec:_ [Specification](../blob/master/starterFiles/hw1_recipe.pdf)
+_Spec:_ [Specification](../master/starterFiles/hw1_recipe.pdf)
 
-_Resource File:_ [skelelton.txt](../blob/master/starterFiles/skeleton.txt) (The page's text contents without HTML/CSS markup, so you don't need to type in the whole page text.)
+_Resource File:_ [skelelton.txt](../master/starterFiles/skeleton.txt) (The page's text contents without HTML/CSS markup, so you don't need to type in the whole page text.)
 
 _Expected Output:_ [out.png](../master/starterFiles/out.png)
 
